@@ -63,6 +63,7 @@ Mental health is a crucial aspect of overall well-being. With rising cases of de
 
 Top 3 models were selected based on accuracy and AUC. Their confusion matrices and ROC curves were visualized for interpretation and comparison.
 
+![ROC curves](ROC.png)
 
 ## 🙏 Acknowledgements
 
